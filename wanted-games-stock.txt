@@ -139,5 +139,4 @@
 5030930064723, Newquay
 5703782200877, Portsmouth
 9312590123276, Altrincham
-SLEGPS2S1053B, Shrewsbury Castle Street
 4005209102193, Lisburn
