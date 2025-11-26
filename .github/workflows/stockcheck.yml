@@ -7,7 +7,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: "0 * * * *"   # <=== Change this value
+    - cron: "*/10 * * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
